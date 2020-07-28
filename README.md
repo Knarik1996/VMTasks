@@ -1,3 +1,3 @@
 # VMTasks
-Here I am going to upload the trials I am about to have before being accepted by VMWare.
-For today I have been trying to fegure out which sorting method to choose for unsorted array with duplicate numbers in them.
+Here will be the trials (in terms of coding) that I am about to have before being accepted by VMWare.
+For today my task was to figure out which sorting method to choose for unsorted array that could also have duplicate numbers in it.
